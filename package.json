@@ -1,7 +1,7 @@
 {
-  "name": "desafiotienda",
+  "name": "joyas",
   "version": "1.0.0",
-  "description": "Desafío n° 5 Tienda de joyas",
+  "description": " Tienda de joyas",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Fernanda Nuñez",
+  "author": "Edison Gómez",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "3.0.1",
